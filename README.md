@@ -46,9 +46,9 @@ Your mission, should you choose to accept it, will be to build a data visualizat
 
 1. **Clone the repository:**
 
-git clone 
+git clone https://github.com/Aizaz6198/FullStackSalesOverviewApp.git
 
-cd RapidQuest_Assignment
+cd FullStackSalesOverviewApp
 
 2. **Install dependencies for frontend and backend:**
 
