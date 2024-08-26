@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosCommon = axios.create({
-    baseURL: "http://localhost:5000/api"
+    baseURL: "https://full-stack-sales-overview-app.vercel.app/api"
 })
 
 
